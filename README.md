@@ -35,4 +35,4 @@ Python 3.12
 Библиотеки: pandas, numpy, matplotlib, scikit-learn, seaborn, shap
 
 ## Автор
-ФИО: Камыталиев Даниел
+ФИО:шамаев Даниель
